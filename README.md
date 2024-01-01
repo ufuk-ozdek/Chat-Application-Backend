@@ -11,6 +11,8 @@ Users can create chat groups or join them. User can send a message in a group an
 PHP, Slim framework, SQLite, RESTful JSON API, Postman(For testing purposes)
 
 ### IMPROVEMENT AREAS ###
-  A GUI 
+  A GUI,
+
+  
   User registration and user login logic
   
